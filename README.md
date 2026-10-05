@@ -4,7 +4,7 @@
 
 🧠 I work with Emtiyaz Khan at RIKEN's Advanced Intelligence Project on approximate Bayesian inference. My research spans ML theory, variational methods, and philosophy of science — with two recent papers accepted to ICML 2026: an oral on SVRG and Beyond via Posterior Correction and a workshop paper on Explanation in an Emerging Science of Large Language Models. 
 
-🔬 Previously: ICLR 2021 publication on refining samples from generative models with Prof. Harold Soh; Google Summer of Code contributor to Kevin Murphy's ProbML textbook; DSO National Laboratories Young Defence Scientist Programme back in JC.
+🔬 Previously: ICLR 2021 publication on refining samples from generative models with Prof. Harold Soh; Google Summer of Code contributor to Kevin Murphy's ProbML textbook
 
 👯 Open to collaborations
 
